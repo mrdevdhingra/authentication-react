@@ -6,7 +6,7 @@ This is a simple React authentication app that demonstrates user registration, l
 
 # You can check the demo here
 
-Click this link for demo: [Demonstration](https://reactjs.org/).
+Click this link for demo: [Demonstration](https://react-authentication-complete.web.app/).
 
 ## Features
 
